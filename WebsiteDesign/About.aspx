@@ -12,6 +12,7 @@
    <div class="btn-group" role="group" aria-label="...">
   <button type="button" class="btn btn-default">Rain</button>
   <button type="button" class="btn btn-default">Farm</button>
+  <button type="button" class="btn btn-default">Other</button>
   </div>
 
  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
